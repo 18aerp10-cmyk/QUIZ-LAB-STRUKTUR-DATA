@@ -47,4 +47,79 @@ Program ini mengimplementasikan Hash Table berukuran 20 slot dengan metode Doubl
 Fitur yang tersedia:
 
 - **Insert** : Menambahkan data mahasiswa ke dalam hash table berdasarkan NIM dan nama.
-- **Search** : Mencari data
+- **Search** : Mencari data mahasiswa berdasarkan NIM.
+- **Remove** : Menghapus data mahasiswa berdasarkan NIM dengan penanda DELETED (lazy deletion).
+- **Display** : Menampilkan isi hash table beserta status setiap slot, yaitu EMPTY, DELETED, atau data mahasiswa.
+- **Double Hashing** : Menggunakan dua fungsi hash, yaitu `key % 20` untuk posisi awal dan `19 - (key % 19)` sebagai langkah lompatan ketika terjadi collision.
+
+## Struktur Folder
+
+```
+Quiz-Lab-Struktur-Data/
+│
+├── Quiz_No_1.cpp
+├── Quiz_No_2.cpp
+├── Quiz_No_3.cpp
+├── Quiz_No_4.cpp
+│
+└── README.md
+```
+
+## Cara Menjalankan Program
+
+Pastikan komputer sudah memiliki compiler C++, seperti GCC/G++ (MinGW).
+
+1. Buka folder repository menggunakan Visual Studio Code atau terminal.
+2. Buka terminal pada folder tersebut:
+   ```
+   cd Quiz-Lab-Struktur-Data
+   ```
+3. Compile program yang ingin dijalankan.
+4. Jalankan program yang sudah berhasil di-compile.
+
+### Compile
+
+**Quiz No. 1**
+```
+g++ Quiz_No_1.cpp -o quiz1
+```
+
+**Quiz No. 2**
+```
+g++ Quiz_No_2.cpp -o quiz2
+```
+
+**Quiz No. 3**
+```
+g++ Quiz_No_3.cpp -o quiz3
+```
+
+**Quiz No. 4**
+```
+g++ Quiz_No_4.cpp -o quiz4
+```
+
+### Menjalankan Program
+
+**Windows (PowerShell / terminal VS Code)**
+```
+.\quiz1
+```
+
+**Windows (Command Prompt)**
+```
+quiz1
+```
+
+**Linux / macOS**
+```
+./quiz1
+```
+
+Ganti `quiz1` dengan `quiz2`, `quiz3`, atau `quiz4` sesuai program yang ingin dijalankan.
+
+## Video Penjelasan
+
+Video berisi penjelasan alur kerja program serta demonstrasi contoh eksekusi masing-masing program.
+
+Link YouTube : (isi link video di sini)
