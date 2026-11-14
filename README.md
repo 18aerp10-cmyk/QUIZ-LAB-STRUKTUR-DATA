@@ -22,7 +22,7 @@ Program ini mengelola data mahasiswa (NIM, nama, dan nilai) dengan beberapa stru
 
 ### 2. Quiz No. 2 – Binary Search Tree, Queue, dan Stack
 
-Program ini mensimulasikan sistem perpustakaan dengan tiga struktur data :
+Program ini mensimulasikan sistem perpustakaan dengan tiga struktur data:
 
 - **Binary Search Tree (BST)** : Menyimpan ID buku, menampilkan traversal Preorder, Inorder, dan Postorder, serta mencari ID buku.
 - **Queue** : Mengelola antrean peminjaman buku mahasiswa dengan prinsip FIFO (First In, First Out).
