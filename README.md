@@ -122,4 +122,4 @@ Ganti `quiz1` dengan `quiz2`, `quiz3`, atau `quiz4` sesuai program yang ingin di
 
 Video berisi penjelasan alur kerja program serta demonstrasi contoh eksekusi masing-masing program.
 
-Link YouTube : https://youtu.be/VZfH8x75e9k
+Link YouTube : https://youtu.be/VZfH8x75e9k](https://youtu.be/-wIZH6Sf7B4?si=CHO65OMMSsbmwPAZ
