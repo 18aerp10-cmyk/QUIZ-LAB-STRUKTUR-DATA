@@ -11,7 +11,7 @@
 
 ### 1. Quiz No. 1 – Dynamic Array, Linked List, dan Searching
 
-Program ini mengelola data mahasiswa (NIM, nama, dan nilai) dengan beberapa struktur data dan algoritma:
+Program ini mengelola data mahasiswa (NIM, nama, dan nilai) dengan beberapa struktur data dan algoritma :
 
 - **Dynamic Array** : Menyimpan nilai mahasiswa dengan ukuran sesuai jumlah data yang diinput.
 - **Linked List** : Menyimpan data mahasiswa (NIM, nama, nilai) dan menampilkannya dalam daftar bernomor.
@@ -22,7 +22,7 @@ Program ini mengelola data mahasiswa (NIM, nama, dan nilai) dengan beberapa stru
 
 ### 2. Quiz No. 2 – Binary Search Tree, Queue, dan Stack
 
-Program ini mensimulasikan sistem perpustakaan dengan tiga struktur data:
+Program ini mensimulasikan sistem perpustakaan dengan tiga struktur data :
 
 - **Binary Search Tree (BST)** : Menyimpan ID buku, menampilkan traversal Preorder, Inorder, dan Postorder, serta mencari ID buku.
 - **Queue** : Mengelola antrean peminjaman buku mahasiswa dengan prinsip FIFO (First In, First Out).
@@ -33,7 +33,7 @@ Program ini mensimulasikan sistem perpustakaan dengan tiga struktur data:
 
 Program ini mengimplementasikan Graph tidak berarah dan berbobot dengan 6 vertex (A sampai F) menggunakan Adjacency Matrix.
 
-Fitur yang tersedia:
+Fitur yang tersedia :
 
 - **BFS (Breadth-First Search)** : Melakukan penelusuran graph secara melebar.
 - **DFS (Depth-First Search)** : Melakukan penelusuran graph secara mendalam.
@@ -44,7 +44,7 @@ Fitur yang tersedia:
 
 Program ini mengimplementasikan Hash Table berukuran 20 slot dengan metode Double Hashing untuk menangani collision (tabrakan data).
 
-Fitur yang tersedia:
+Fitur yang tersedia :
 
 - **Insert** : Menambahkan data mahasiswa ke dalam hash table berdasarkan NIM dan nama.
 - **Search** : Mencari data mahasiswa berdasarkan NIM.
